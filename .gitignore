@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Ignore pictures and videos in public/images
+/public/images/*
+!/public/images/.gitkeep
